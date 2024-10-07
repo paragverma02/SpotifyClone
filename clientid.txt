@@ -1,0 +1,5 @@
+Client id = 0d3d1fbcd0f64b5389b9765240e9d353
+
+https://github.com/atharvadeosthale/spotify-clone/blob/1a727b8c9b287d5c3f942106a4a043f26ac551d6/src/Footer.js
+
+https://medium.com/cleverprogrammer/spotify-clone-using-reactjs-the-ultimate-guide-2a47977a1e4f
